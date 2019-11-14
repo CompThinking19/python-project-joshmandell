@@ -28,6 +28,9 @@ def run_trivia(questions):
         answer = raw_input(question.prompt)
         if answer == question.answer:
             score += 1
+            print "correct"
+        else:
+            print "incorrect"
     print("You answered " + str(score) + "/" + str(len(questions)) + " correct")
 
 run_trivia(questions)
