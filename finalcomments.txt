@@ -1,0 +1,11 @@
+Comments
+There are a number of comments scattered throughout that do a good job of giving a sense of what each bit of the code does. There could be a greater sense of "why", however.
+
+Code Quality
+The use of the Question class and then a function and for loop to run them is really good encapsulation and does a great job of keeping your code DRY.
+
+Ambition
+No README is present, so I don't have a sense of what the scope of this project could be and where this piece of it fits in. As it stands, I don't see exactly how this project necessarily addresses some of the issues requested in the assignment guidelines.
+
+Aesthetics
+The program runs and the questions are varied and interesting. However, I don't necessarily see a thematic linking between them, which makes the game feel a bit scattershot.
